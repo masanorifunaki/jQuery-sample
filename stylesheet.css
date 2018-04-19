@@ -1,0 +1,15 @@
+#login-form {
+  display: none;
+}
+
+.answer {
+  display: none;
+}
+
+.slide {
+  display: none;
+}
+
+.active {
+  display: block;
+}
